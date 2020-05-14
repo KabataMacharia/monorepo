@@ -1,0 +1,6 @@
+[submodule "package1"]
+	path = package1
+	url = https://github.com/KabataMacharia/package1.git
+[submodule "package2"]
+	path = package2
+	url = https://github.com/KabataMacharia/package2.git
